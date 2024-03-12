@@ -23,9 +23,8 @@
 - `label`: ป้ายกำกับที่ระบุว่าอีเมลเป็นสแปม (1) หรือไม่เป็นสแปม (0)
 
 ## File
-
-Link File DataSet: [combined_data.csv](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset?select=combined_data.csv)
-File Colab: 6410210091_miniproject.ipynb
+- **Link File DataSet**: [combined_data.csv](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset?select=combined_data.csv)
+- **File Colab**: 6410210091_miniproject.ipynb
 
 ## วิธีการใช้งาน
 
